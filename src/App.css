@@ -1,0 +1,42 @@
+#container {
+  margin: 1.5rem;
+}
+
+.logoContainer{
+  display: flex;
+  height:calc(var(--pad-top) + 20px);
+  justify-content: center;
+  padding: 15px;
+  width: 100vw;
+  position: absolute;
+  box-sizing: border-box;
+  z-index: 1;
+  top: 0;
+  align-items: center;
+}
+
+.pageRoot{
+  --pad-top: 50px;
+  position: relative;
+  padding-top: var(--pad-top);
+}
+
+.mask{
+  position: absolute;
+  z-index: 0;
+  opacity: 0.5;
+  top: 10px;
+  background-image: linear-gradient(to right, #93e6c9,#fff7b3);
+  filter: blur(10px) brightness(90%) saturate(95%);
+  width: 100vw;
+  height: var(--pad-top);
+  border: 1px solid;
+}
+img{
+  height: -webkit-fill-available;
+}
+
+.arrowImg{
+  height:28px;
+  margin:0 10px;
+}

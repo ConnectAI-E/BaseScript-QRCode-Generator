@@ -1,0 +1,16 @@
+{
+  "load_error.1":"运行项目后，请获取 webview 地址，粘贴至多维表格「扩展脚本」中使用。详见：",
+  "load.guide":"开发指南",
+  "title":"二维码生成器",
+  "title.desc":"将 URL 或文字轻松转化为二维码，并自动上传到多维表格作为附件",
+  "select.table":"选择数据表",
+  "select.table.placeholder":"请选择数据表",
+  "select.url":"URL 字段",
+  "select.url.placeholder":"请选择您想要生成二维码的URL的字段",
+  "select.att":"附件字段",
+  "select.att.placeholder":"请选择您想要保存二维码的附件字段",
+  "select.qrcode.type":"二维码格式",
+  "select.qrcode.size":"二维码大小（像素）",
+  "ok":"确定",
+  "error.empty":"请选择完整信息"
+}

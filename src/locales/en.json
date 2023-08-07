@@ -1,0 +1,16 @@
+{
+   "load_error.1":"After running the project, please get the webview address and paste it into the multidimensional table \"Extended Script\" for use. See: ",
+   "load.guide": "Development Guide",
+   "title": "QR code generator",
+   "title.desc":"Easily convert URL or text into a QR code, and automatically upload it to a multidimensional table as an attachment",
+   "select.table": "Select Data Table",
+   "select.table.placeholder": "Please select a data table",
+   "select.url": "URL field",
+   "select.url.placeholder": "Please select the URL field where you want to generate a QR code",
+   "select.att": "Attachment field",
+   "select.att.placeholder": "Please select the attachment field where you want to save the QR code",
+   "select.qrcode.type": "QR code format",
+   "select.qrcode.size": "QR code size（pixels）",
+   "ok": "OK",
+   "error.empty": "Please select complete information"
+}
