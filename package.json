@@ -22,9 +22,10 @@
     "vite": "^3.0.4"
   },
   "dependencies": {
-    "@base-open/web-api": "https://lf3-static.bytednsdoc.com/obj/eden-cn/eqgeh7upeubqnulog/base-open-web-api-0.2.0-beta.4.tgz",
+    "@lark-base-open/js-sdk": "^0.2.3",
     "antd": "^5.7.3",
     "i18next": "^23.4.1",
+    "jsbarcode": "^3.11.5",
     "normalize.css": "^8.0.1",
     "qrcode": "^1.5.3",
     "react-i18next": "^13.0.3",

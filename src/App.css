@@ -1,7 +1,6 @@
 #container {
   margin: 1.5rem;
 }
-
 .logoContainer{
   display: flex;
   height:calc(var(--pad-top) + 20px);
